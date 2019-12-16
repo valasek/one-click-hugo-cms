@@ -8,19 +8,32 @@
         </main>
         {{- partial "footer.html" . -}}
 
-    <script>
-        //Javascript to toggle the nav-menu
-        document.getElementById('nav-open').onclick = function () {
-            document.getElementById("nav-menu").classList.toggle("hidden");
-            document.getElementById("nav-open").classList.toggle("hidden");
-            document.getElementById("nav-close").classList.toggle("hidden");
-        }
-        document.getElementById('nav-close').onclick = function () {
-            document.getElementById("nav-menu").classList.toggle("hidden");
-            document.getElementById("nav-close").classList.toggle("hidden");
-            document.getElementById("nav-open").classList.toggle("hidden");
-        }
-    </script>
+        <script>
+            //Javascript to toggle the nav-menu
+            document.getElementById('nav-open').onclick = function () {
+                document.getElementById("nav-menu").classList.toggle("hidden");
+                document.getElementById("nav-open").classList.toggle("hidden");
+                document.getElementById("nav-close").classList.toggle("hidden");
+            }
+            document.getElementById('nav-close').onclick = function () {
+                document.getElementById("nav-menu").classList.toggle("hidden");
+                document.getElementById("nav-close").classList.toggle("hidden");
+                document.getElementById("nav-open").classList.toggle("hidden");
+            }
+        </script>
+
+        <script>
+            // Netlify CMS
+            if (window.netlifyIdentity) {
+                window.netlifyIdentity.on("init", user => {
+                    if (!user) {
+                        window.netlifyIdentity.on("login", () => {
+                            document.location.href = "/admin/";
+                        });
+                    }
+                });
+            }
+        </script>
 
     </body>
 </html>
