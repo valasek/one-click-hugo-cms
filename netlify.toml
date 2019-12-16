@@ -4,8 +4,8 @@
   HUGO_VERSION = "0.55.6"
 
 [build]
-  command = "yarn build"
+  command = "cd themes/hugo-theme-tailwindcss-starter && npm install postcss-cli && yarn build && ../.."
   publish = "dist"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "./themes/hugo-theme-tailwindcss-starter/yarn build:preview"
