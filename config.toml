@@ -1,6 +1,6 @@
 theme = "hugo-theme-tailwindcss-starter"
 languageCode = "cz-cs"
-baseurl = "https://www.glowofamber.cz/"
+baseurl = "/"
 title = "Glow of Amber"
 
 author = "Markéta Neradová"
