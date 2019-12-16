@@ -1,21 +1,19 @@
 theme = "hugo-theme-tailwindcss-starter"
-languageCode = "en-us"
-baseurl = "http://example.com/"
+languageCode = "cz-cs"
+baseurl = "https://www.glowofamber.cz/"
 title = "Glow of Amber"
 
-author = "Dirk Olbrich"
-copyright = "Copyright © 2019, Dirk Olbrich, all rights reserved."
+author = "Markéta Neradová"
+copyright = "Copyright © 2019, Markéta Neradová, all rights reserved."
 
 # Code higlighting settings
 pygmentsCodefences = true
 pygmentsStyle = "vs"
 
 [params]
-    name = "Hugo Tailwindcss Starter"
-    description = "A simple bootstraped theme for Hugo, build with Tailwindcss."
+    name = "Glow of Amber"
+    description = "Chovatelka psů."
 
-    github_user = "dirkolbrich"
-    github_repo = "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter"
-    github_banner = true
-
-    favicon = "favicon.ico"
+    favicon = "/favicon.svg"
+    backgroundImage = "/background.png"
+    logo = "/logo.svg"

@@ -1,6 +1,6 @@
 ---
 author: Markéta Neradová
-title: About
+title: First Post
 date: 2019-05-13
 ---
 
