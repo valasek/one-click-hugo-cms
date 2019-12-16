@@ -7,5 +7,5 @@
   command = "mkdir dist && cd themes/hugo-theme-tailwindcss-starter && npm install -g postcss-cli && npm install -g autoprefixer && npm install && cd ../.."
   publish = "dist"
 
-[context.deploy-preview]
-  command = "./themes/hugo-theme-tailwindcss-starter/yarn build:preview"
+# [context.deploy-preview]
+#   command = "./themes/hugo-theme-tailwindcss-starter/npm build:preview"
