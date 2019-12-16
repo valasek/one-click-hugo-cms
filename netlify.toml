@@ -4,8 +4,8 @@
   HUGO_VERSION = "0.55.6"
 
 [build]
-  command = "mkdir dist && cd themes/hugo-theme-tailwindcss-starter && npm install -g postcss-cli && npm install -g autoprefixer && npm install && cd ../.."
-  publish = "dist"
+  command = "cd themes/hugo-theme-tailwindcss-starter && npm install -g postcss-cli && npm install -g autoprefixer && npm install && cd ../.."
+  publish = "public"
 
 # [context.deploy-preview]
 #   command = "./themes/hugo-theme-tailwindcss-starter/npm build:preview"

@@ -1,5 +1,8 @@
+!.gitkeep
 node_modules/
-dist/
-site/data/webpack.json
-/npm-debug.log
+dist/*
+public/*
+resources/
+data/webpack.json
+npm-debug.log
 yarn-error.log
