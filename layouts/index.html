@@ -1,9 +1,9 @@
 {{ define "main" }}
 <article class="text-center text-black bg-gray-100 opacity-75 w-2/5 p-8">
     <h1 class="font-serif tracking-widest font-bold text-6xl text-black">{{ .Title }}</h1>
-    {{ .Content }}
-    <button type="button" class="rounded pt-8 font-bold text-xl tracking-widest">
-        NOVINKY
+    <span class="text-justify">{{ .Content }}</span>
+    <button type="button" class="rounded mt-8 font-bold text-xl tracking-widest border-orange-400 border-4">
+        <div class="p-4">NOVINKY</div>
     </button>
 </article>
 {{ end }}
