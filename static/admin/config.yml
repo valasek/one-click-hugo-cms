@@ -7,8 +7,8 @@ media_folder: "static" # Media files will be stored in the repo under images/upl
 public_folder: "public" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "novinky" # Used in routes, e.g., /admin/collections/blog
-    label: "Novinky" # Used in the UI
+  - label: "Novinky" # Used in the UI
+    name: "novinky" # Used in routes, e.g., /admin/collections/blog
     folder: "content/novinky" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -17,8 +17,6 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       # - {label: "Featured Image", name: "thumbnail", widget: "image"}
       # - {label: "Body", name: "body", widget: "markdown"}
-
-collections:
   - label: "Stránky"
     name: "pages"
     files:
