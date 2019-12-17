@@ -17,3 +17,15 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       # - {label: "Featured Image", name: "thumbnail", widget: "image"}
       # - {label: "Body", name: "body", widget: "markdown"}
+
+collections:
+  - label: "Stránky"
+    name: "pages"
+    files:
+      - label: "Hlavní stránka"
+        name: "index"
+        file: "content/_index.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date", name: "date", widget: "date"}
+          - {label: "Body", name: "body", widget: "markdown"}
