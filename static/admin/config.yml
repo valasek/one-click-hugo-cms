@@ -24,7 +24,7 @@ collections:
     files:
       - label: "Hlavní stránka"
         name: "index"
-        file: "content/_index.yml"
+        file: "content/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Date", name: "date", widget: "date"}
