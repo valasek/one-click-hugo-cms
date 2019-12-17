@@ -1,10 +1,15 @@
 [build.environment]
-  YARN_VERSION = "1.12.1"
-  NPM_VERSION = "6.4.1"
-  HUGO_VERSION = "0.55.6"
+  YARN_VERSION = "1.21.1"
+  NPM_VERSION = "6.13.4"
+  HUGO_VERSION = "0.61.0"
+
+[context.production.environment]
+  HUGO_VERSION = "0.61.0"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
 [build]
-  command = "cd themes/hugo-theme-tailwindcss-starter && npm install -g postcss-cli && npm install -g autoprefixer && npm install && cd ../.. && hugo"
+  command = "cd themes/hugo-theme-tailwindcss-starter && npm install -g postcss-cli && npm install -g autoprefixer && npm install && cd ../.. && hugo --gc --minify"
   publish = "public"
 
 # [context.deploy-preview]
