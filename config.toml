@@ -10,6 +10,9 @@ copyright = "Copyright © 2019, Markéta Neradová, all rights reserved."
 pygmentsCodefences = true
 pygmentsStyle = "vs"
 
+# Do not pluralize site sections
+pluralizelisttitles = false
+
 [params]
     name = "Glow of Amber"
     description = "Chovatelka psů."

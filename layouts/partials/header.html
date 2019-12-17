@@ -4,7 +4,7 @@
         <a href="{{ .Site.Home.Permalink }}" class="flex items-center">
             <img src="{{ .Site.Params.logo }}" alt="site logo" style="height:5em">
         </a>
-        <div class="block sm:hidden">
+        <div class="block">
             <button id="nav-open" class="flex items-center text-red-500 hover:text-blue-500">
                 <svg class="fill-current h-4 w-4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <title>Menu</title>
@@ -19,18 +19,38 @@
                 </svg>
             </button>
         </div>
-        <ul id="nav-menu" class="w-full flex-grow sm:flex items-center sm:w-auto hidden sm:block justify-end list-reset mt-2 sm:mt-0">
-            {{ with .Site.GetPage "/about" }}
+        <ul id="nav-menu" class="w-full flex-grow flex items-center w-auto hidden block justify-end list-reset mt-2 mt-0">
+            {{ range .Site.Sections }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-red-500 sm:px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-gray-500 px-2 hover:text-blue-400">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
-            {{ range .Site.Sections }}
+            {{ with .Site.GetPage "/amber" }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-gray-500 sm:px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
             </li>
             {{ end }}
+
+            {{ with .Site.GetPage "/beauty" }}
+            <li>
+                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+            </li>
+            {{ end }}
+
+            {{ with .Site.GetPage "/galerie" }}
+            <li>
+                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+            </li>
+            {{ end }}
+
+            {{ with .Site.GetPage "/kontakt" }}
+            <li>
+                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+            </li>
+            {{ end }}
+
+            
         </ul>
     </nav>
 </header>
