@@ -1,4 +1,4 @@
-theme = "hugo-theme-tailwindcss-starter"
+theme = ""
 languageCode = "cz-cs"
 baseurl = "/"
 title = "Glow of Amber"
