@@ -22,31 +22,31 @@
         <ul id="nav-menu" class="w-full flex-grow flex items-center w-auto hidden block justify-end list-reset mt-2 mt-0">
             {{ range .Site.Sections }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-gray-500 px-2 hover:text-blue-400">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/amber" }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/beauty" }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/galerie" }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/kontakt" }}
             <li>
-                <a href="{{ .Permalink }}" class="inline-block text-red-500 px-2 hover:text-blue-400">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 

@@ -1,5 +1,6 @@
 ---
-title: "KONTAKT"
+title: "Kontakt"
+layout: "kontakt"
 userEmail: "neradova.marketa@gmail.com"
 userName: "MARKÉTA NERADOVÁ"
 userPhone: "+420 253 843 893"
