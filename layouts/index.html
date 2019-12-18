@@ -2,10 +2,10 @@
 <article class="text-center text-black bg-gray-100 opacity-75 w-2/5 p-8">
     <h1 class="font-serif tracking-widest font-bold text-6xl text-black">{{ .Title }}</h1>
     <span class="text-justify">{{ .Content }}</span>
-    <button type="button" class="rounded mt-12 border-orange-400 border-4">
-        <form action="/novinky">
-            <input class="p-4 font-bold text-xl tracking-widest" type="submit" value="NOVINKY" />
-        </form>
+    <button type="button" class="rounded mt-12 border-orange-400 border-4" onClick="window.location='/novinky';">
+        <div class="p-4  font-bold text-xl tracking-widest">
+            Novinky
+        </div>
     </button>
 </article>
 {{ end }}
