@@ -1,8 +1,7 @@
 ---
-title: A second Post
-date: 2019-05-14
+title: Sedmá novinka
+date: 2019-11-25
 image: "/novinky/novinka-image.png"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  ..."
 draft: false
 ---
 
