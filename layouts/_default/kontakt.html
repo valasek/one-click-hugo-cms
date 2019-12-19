@@ -22,17 +22,17 @@
                 <form name="kontakt" netlify>
                     <div class="text-xl font-bold tracking-widest mb-2">{{ .Page.Params.formTitle }}</div>
                     <div class="flex-row py-1">
-                        <input class="md:w-1/2 placeholder-black text-xl" type="text" name="Jmeno" required
+                        <input class="md:w-1/2 placeholder-black text-xl" type="text" name="jmeno" required
                             placeholder="{{ .Page.Params.visitorName }}" style="height:3em"></input>
-                        <input class="ml-4 placeholder-black text-xl" type="text" name="Telefon"
+                        <input class="ml-4 placeholder-black text-xl" type="text" name="telefon"
                             placeholder="{{ .Page.Params.visitorPhone }}" style="height:3em"></input>
                     </div>
                     <div class="py-1">
-                        <input class="md:w-full placeholder-black text-xl" type="email" name="Email" required
+                        <input class="md:w-full placeholder-black text-xl" type="email" name="email" required
                             placeholder="{{ .Page.Params.visitorEmail }}" style="height:3em"></input>
                     </div>
                     <div class="py-1">
-                        <textarea class="md:w-full placeholder-black text-xl" name="Text" required minlength="15"
+                        <textarea class="md:w-full placeholder-black text-xl" name="text" required minlength="15"
                             spellcheck placeholder="{{ .Page.Params.visitorText }}"></textarea>
                     </div>
                     <div class="py-1">
