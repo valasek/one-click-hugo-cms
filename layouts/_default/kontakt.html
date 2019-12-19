@@ -19,20 +19,23 @@
                 </div>
             </div>
             <div class="w-1/2 p-4">
-                <form name="kontakt" netlify>
+                <form name="kontakt" method="POST" subject="Glow of Amber - kontakt z webu" data-netlify="true" data-netlify-honeypot="bot-field">
+                    <div class="hidden">
+                        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                    </div>
                     <div class="text-xl font-bold tracking-widest mb-2">{{ .Page.Params.formTitle }}</div>
                     <div class="flex-row py-1">
-                        <input class="md:w-1/2 placeholder-black text-xl" type="text" name="jmeno" required
+                        <input class="md:w-1/2 placeholder-black text-xl" type="text" name="Jmeno" required
                             placeholder="{{ .Page.Params.visitorName }}" style="height:3em"></input>
-                        <input class="ml-4 placeholder-black text-xl" type="text" name="telefon"
+                        <input class="ml-4 placeholder-black text-xl" type="text" name="Telefon"
                             placeholder="{{ .Page.Params.visitorPhone }}" style="height:3em"></input>
                     </div>
                     <div class="py-1">
-                        <input class="md:w-full placeholder-black text-xl" type="email" name="email" required
+                        <input class="md:w-full placeholder-black text-xl" type="email" name="Email" required
                             placeholder="{{ .Page.Params.visitorEmail }}" style="height:3em"></input>
                     </div>
                     <div class="py-1">
-                        <textarea class="md:w-full placeholder-black text-xl" name="text" required minlength="15"
+                        <textarea class="md:w-full placeholder-black text-xl" name="Sprava" required minlength="15"
                             spellcheck placeholder="{{ .Page.Params.visitorText }}"></textarea>
                     </div>
                     <div class="py-1">

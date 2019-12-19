@@ -3,13 +3,13 @@
     <h1 class="flex-row font-bold text-6xl tracking-widest">{{ .Title | upper }}</h1>
 {{ range .Pages }}
     <article class="flex text-gray-700 mb-4">
-        <div class="w-1/6">
-            image
+        <div class="w-1/6 pr-4">
+            <img src=" {{ .Params.Image }} " alt="obrázek novinky" />
         </div>
         <div class="w-2/3">
             <h1 class="font-bold font-thin text-3xl text-gray-700"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <div class="flex-block text-gray-600">{{ dateFormat "2. 1. 2006" .Date }}</div>
-            {{ .Content }}
+            {{ .Summary }}
         </div>
         <div class="w-1/3 flex justify-end">
             Archiv
