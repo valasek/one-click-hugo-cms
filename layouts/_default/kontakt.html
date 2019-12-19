@@ -19,10 +19,11 @@
                 </div>
             </div>
             <div class="w-1/2 p-4">
-                <form name="kontakt" method="POST" subject="Glow of Amber - kontakt z webu" data-netlify="true" data-netlify-honeypot="bot-field">
+                <form name="kontakt" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                     <div class="hidden">
                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                     </div>
+                    <input type="text" name="subject" value="Glow of Amber: {{email}} Vám poslal správu" class="hidden">
                     <div class="text-xl font-bold tracking-widest mb-2">{{ .Page.Params.formTitle }}</div>
                     <div class="flex-row py-1">
                         <input class="md:w-1/2 placeholder-black text-xl" type="text" name="Jmeno" required
