@@ -4,7 +4,7 @@
 
 Sources for web site www.glowofamber.cz.
 
-Static pages are build on a top of [Hugo](https://gohugo.io/) using [Tailwind CSS](tailwindcss.com/) and deployed on [Deploy to Netlify](https://www.netlify.com).
+Static pages are build on a top of [Hugo](https://gohugo.io/) using [Tailwind CSS](tailwindcss.com/) and deployed on [Netlify](https://www.netlify.com) with configured [Netlify CMS](https://www.netlifycms.org/).
 
 ## Getting Started
 
