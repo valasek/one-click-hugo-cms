@@ -2,7 +2,7 @@
 <article class="text-black bg-gray-100 opacity-75 px-24 py-12 my-8">
     <h1 class="flex-row font-bold text-6xl tracking-widest">{{ .Title | upper }}</h1>
     <div class="flex overflow-y-auto">
-        <div class="w-auto inline-block pb-4">
+        <div class="w-auto inline-block pb-4 border-r-4 border-orange-400">
             {{ range .Pages }}
                 <div class="flex">
                     <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="inline-block w-1/6 px-4 pt-6">
@@ -14,7 +14,7 @@
                 </div>
             {{ end }}
         </div>
-        <div class="w-screen inline-block">
+        <div class="w-screen inline-block">            
             <div class="text-3xl font-bold justify-start mt-2 ml-4">ARCHIV</div>
             <div class="font-bold text-xl pl-4">2020</div>
             <div class="font-bold text-xl pl-4">2019</div>
