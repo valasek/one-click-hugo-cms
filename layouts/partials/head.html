@@ -11,6 +11,8 @@
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    <meta name="google-site-verification" content="tZNZ7Ma0DtqX_i9aIIO4B2tpu_g0wQX_DUt5PGQwOFs" />
+
 {{ if .Site.IsServer }}
     {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/dev/postcss.config.js") }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
