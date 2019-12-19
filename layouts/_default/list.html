@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="text-black bg-gray-100 opacity-75 px-24 py-12 my-8">
     <h1 class="flex-row font-bold text-6xl tracking-widest">{{ .Title | upper }}</h1>
-    <div class="flex">
+    <div class="flex overflow-y-auto">
         <div class="w-auto inline-block pb-4">
             {{ range .Pages }}
                 <div class="flex">
