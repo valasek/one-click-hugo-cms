@@ -1,6 +1,11 @@
 module.exports = {
   theme: {
-    extend: {}
+    inset: {
+      '0': 0,
+      auto: 'auto',
+      'menu-top': '8em',
+      'menu-right': '4em'
+    }
   },
   variants: {},
   plugins: []

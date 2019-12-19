@@ -19,34 +19,34 @@
                 </svg>
             </button>
         </div>
-        <ul id="nav-menu" class="w-full flex-grow flex items-center w-auto hidden block justify-end list-reset mt-2 mt-0">
+        <ul id="nav-menu" class="fixed z-40 top-menu-top right-menu-right bg-gray-100 opacity-75 hidden p-8 tracking-widest ">
             {{ range .Site.Sections }}
-            <li>
-                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
+            <li class="py-2">
+                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/amber" }}
-            <li>
-                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
+            <li class="py-2">
+                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/beauty" }}
-            <li>
-                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
+            <li class="py-2">
+                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/galerie" }}
-            <li>
-                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
+            <li class="py-2">
+                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/kontakt" }}
-            <li>
-                <a href="{{ .Permalink }}" class="inline-block text-black px-2 hover:text-red-500">{{ .Title | upper }}</a>
+            <li class="py-2">
+                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-red-500">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
