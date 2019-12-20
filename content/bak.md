@@ -1,15 +1,13 @@
 ---
-title: "Quite a Beauty"
+title: "AMBER Glow \"BAK\""
 layout: "popis"
 firstButtonName: "Zdraví"
 firstButtonLink: "#"
 secondButtonName: "Úspěchy"
 secondButtonLink: "#"
-thirdButtonName: "Odchovy"
+thirdButtonName: "Potomci"
 thirdButtonLink: "#"
 ---
-
-V součastné době štěňátka neplánujeme.
 
 Informace o rodičích
 

@@ -1,5 +1,7 @@
 ---
 title: "Amber Glow \"Bak\""
+layout: "galerie-bak"
+adresar: "bak"
 ---
 
-<!-- Žádný obsah -->
+<!-- Galerie bez obsahu -->

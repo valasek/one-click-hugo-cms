@@ -1,0 +1,7 @@
+{{ $albumUrl := print "/static/galerie/" $.Params.adresar }}
+{{ range readDir $albumUrl }}
+    {{ $imgURL := print "/galerie/" $.Params.adresar "/" .Name | absURL }}
+    <div class="w-32 p-4">
+        <img src="{{ $imgURL }}" alt="obrázok {{ .Name }}" />
+    </div>
+{{ end }}

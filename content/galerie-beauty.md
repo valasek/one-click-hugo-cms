@@ -1,5 +1,5 @@
 ---
-title: "Beauty"
+title: "Quite a Beauty"
 ---
 
 Galerie
