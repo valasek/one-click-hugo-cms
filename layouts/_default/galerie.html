@@ -4,11 +4,15 @@
     <!-- {{ .Content }} -->
     <div class="flex">
         <div class="flex-row p-4">
-            <a href="{{ .Params.galerieBak }}"><img src="{{ .Params.imageBak }}" alt="obrázek Bak" style="height:15em" class="pr-10"></a>
+            <a href="{{ .Params.galerieBak }}">
+                <img src="{{ .Params.imageBak }}" alt="obrázek Bak" class="rounded h-56 border-4 hover:border-orange-500">
+            </a>
             <div class="text-3xl font-bold justify-start mt-2 tracking-wide text-center">{{ .Params.nameBak | upper }}</div>
         </div>
         <div class="flex-row p-4">
-            <a href="{{ .Params.galerieBeauty }}"><img src="{{ .Params.imageBeauty }}" alt="obrázek Beauty" style="height:15em"></a>
+            <a href="{{ .Params.galerieBeauty }}">
+                <img src="{{ .Params.imageBeauty }}" alt="obrázek Beauty" class="rounded h-56 border-4 hover:border-orange-500">
+            </a>
             <div class="text-3xl font-bold mt-2 tracking-wide text-center">{{ .Params.nameBeauty | upper }}</div>
         </div>
     </div>
