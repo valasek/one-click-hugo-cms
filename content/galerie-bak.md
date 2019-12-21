@@ -1,6 +1,6 @@
 ---
 title: "Amber Glow \"Bak\""
-layout: "galerie-bak"
+layout: "galerie-detail"
 adresar: "bak"
 ---
 

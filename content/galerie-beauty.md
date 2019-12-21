@@ -1,5 +1,7 @@
 ---
 title: "Quite a Beauty"
+layout: "galerie-detail"
+adresar: "beauty"
 ---
 
-Galerie
+<!-- Galerie bez obsahu -->
