@@ -5,8 +5,8 @@ firstButtonName: "Zdraví"
 firstButtonLink: "#"
 secondButtonName: "Úspěchy"
 secondButtonLink: "#"
-thirdButtonName: "Odchovy"
-thirdButtonLink: "#"
+thirdButtonName: ""
+thirdButtonLink: ""
 ---
 
 V součastné době štěňátka neplánujeme.

@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 layout: "kontakt"
-userEmail: "neradova.marketa@gmail.com"
+userEmail: "marketa.neradova@seznam.cz"
 userName: "MARKÉTA NERADOVÁ"
 userPhone: "+420 253 843 893"
 formTitle: "NAPIŠTE NÁM"

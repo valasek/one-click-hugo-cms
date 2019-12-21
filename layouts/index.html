@@ -1,9 +1,9 @@
 {{ define "main" }}
 <article class="text-center text-black bg-gray-100 opacity-75 w-2/5 p-8">
-    <h1 class="font-serif tracking-widest font-bold text-6xl text-black">{{ .Title }}</h1>
+    <h1 class="tracking-widest font-bold text-6xl text-black">{{ .Title | upper }}</h1>
     <div class="text-justify">{{ .Content }}</div>
     <div class="mt-12">
-        <a class="rounded bg-orange-400 hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="/novinky">
+        <a class="rounded block w-auto bg-amber hover:bg-orange-500 py-4 font-bold text-xl tracking-widest" href="/novinky">
             NOVINKY
         </a>
     </div>
