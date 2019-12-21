@@ -5,7 +5,7 @@
         <div class="border-r-4 border-amber">
             {{ range .Pages }}
                 <div class="flex pt-6">
-                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="inline-block pr-10 pt-3 h-40 w-80 object-cover">
+                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="shadow rounded mr-10 mt-3 h-40 w-80 object-cover">
                     <div class="inline-block w-auto pr-20">
                         <div class="inline-block font-bold font-thin text-2xl text-black">{{ .Title }}</div>
                         <div class="inline-block text-gray-600 text-xl pl-1">{{ dateFormat "2. 1. 2006" .Date }}</div>

@@ -3,18 +3,18 @@
         <h1 class="flex-row font-bold text-6xl tracking-widest">{{ .Title | upper }}</h1>
         <div class="my-12">
             <span class="pr-4">
-                <a class="rounded bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.firstButtonLink }}">
+                <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.firstButtonLink }}">
                     {{ .Params.firstButtonName | upper }}
                 </a>
             </span>
             <span class="pr-4">
-                <a class="rounded bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.secondButtonLink }}">
+                <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.secondButtonLink }}">
                     {{ .Params.secondButtonName | upper }}
                 </a>
             </span>
             {{ if ne .Params.thirdButtonLink "" }}
                 <span class="pr-4">
-                    <a class="rounded bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.thirdButtonLink }}">
+                    <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.thirdButtonLink }}">
                         {{ .Params.thirdButtonName | upper }}
                     </a>
                 </span>
