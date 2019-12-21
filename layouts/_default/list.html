@@ -1,15 +1,15 @@
 {{ define "main" }}
 <article class="text-black bg-gray-100 opacity-75 px-24 py-12 my-8">
-    <h1 class="flex-row font-bold text-6xl tracking-widest pb-6">{{ .Title | upper }}</h1>
-    <div class="flex overflow-y-auto">
-        <div class="w-auto inline-block pb-4 border-r-4 border-amber">
+    <h1 class="font-bold text-6xl tracking-widest pb-6">{{ .Title | upper }}</h1>
+    <div class="flex">
+        <div class="border-r-4 border-amber">
             {{ range .Pages }}
-                <div class="flex pb-10">
-                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="inline-block w-1/6 pr-10 h-40 object-cover">
-                    <div class="inline-block w-2/3">
-                        <div class="inline-block font-bold font-thin text-2xl text-black pb-3">{{ .Title }}</div>
+                <div class="flex pt-6">
+                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="inline-block pr-10 pt-3 h-40 w-80 object-cover">
+                    <div class="inline-block w-auto pr-20">
+                        <div class="inline-block font-bold font-thin text-2xl text-black">{{ .Title }}</div>
                         <div class="inline-block text-gray-600 text-xl pl-1">{{ dateFormat "2. 1. 2006" .Date }}</div>
-                        <div class="inline-block text-black text-justify">{{ .Content }}</div>
+                        <div class="inline-block text-black text-justify pt-4">{{ .Content }}</div>
                     </div>
                 </div>
             {{ end }}
