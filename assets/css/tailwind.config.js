@@ -12,7 +12,9 @@ module.exports = {
         '0': 0,
         auto: 'auto',
         'menu-top': '8em',
-        'menu-right': '4em'
+        'menu-top-mobile': '5em',
+        'menu-right': '4em',
+        'menu-right-mobile': '0em'
       }
     }
   },
