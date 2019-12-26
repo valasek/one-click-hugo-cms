@@ -1,9 +1,8 @@
 {{ define "main" }}
-<article class="bg-gray-100 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
+<article class="bg-gray-700 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
     <h1 class="tracking-widest font-bold text-4xl md:text-4xl">{{ .Title | upper }}</h1>
-    <!-- {{ .Content }} -->
-    <div class="flex mb-4">
-        <div class="w-1/2 p-4">
+    <div class="lg:flex mb-4">
+        <div class="w-1/2 lg:p-4">
             <div class="flex flex-row py-10">
                 <img src="/profile.svg" alt="profile logo" style="height:2em">
                 <div class="font-bold px-4 text-2xl"> {{ .Page.Params.userName }} </div>
@@ -17,25 +16,29 @@
                 <div class="px-4 text-xl">{{ .Page.Params.userPhone }}</div>
             </div>
         </div>
-        <div class="w-1/2 p-4">
+        <div class="block lg:w-1/2 md:p-4">
             <form name="kontakt" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                 <div class="hidden">
                     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                 </div>
                 <input type="text" name="subject" value="Glow of Amber: zpráva z webu" class="hidden">
                 <div class="text-xl font-bold tracking-widest mb-2">{{ .Page.Params.formTitle }}</div>
-                <div class="flex-row py-1">
-                    <input class="md:w-1/2 placeholder-black text-xl" type="text" name="Jmeno" required
+                <div class="block lg:flex lg:flex-row lg:justify-start">
+                    <div class="py-1 lg:flex-inline lg:w-2/5">
+                        <input class="block placeholder-black text-xl" type="text" name="Jmeno" required
                         placeholder="{{ .Page.Params.visitorName }}" style="height:3em"></input>
-                    <input class="ml-4 placeholder-black text-xl" type="text" name="Telefon"
+                    </div>
+                    <div class="py-1 lg:flex-inline lg:w-2/5">
+                    <input class="block lg:ml-4 placeholder-black text-xl py-1" type="text" name="Telefon"
                         placeholder="{{ .Page.Params.visitorPhone }}" style="height:3em"></input>
+                    </div>
                 </div>
                 <div class="py-1">
-                    <input class="md:w-full placeholder-black text-xl" type="email" name="Email" required
+                    <input class="block lg:w-full placeholder-black text-xl" type="email" name="Email" required
                         placeholder="{{ .Page.Params.visitorEmail }}" style="height:3em"></input>
                 </div>
                 <div class="py-1">
-                    <textarea class="md:w-full placeholder-black text-xl" name="Sprava" required minlength="15"
+                    <textarea class="block lg:w-full placeholder-black text-xl" name="Sprava" required minlength="15"
                         spellcheck placeholder="{{ .Page.Params.visitorText }}"></textarea>
                 </div>
                 <div class="py-1">
