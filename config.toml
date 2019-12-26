@@ -1,6 +1,6 @@
 theme = ""
 languageCode = "cz-cs"
-baseurl = "/"
+baseurl = "https://www.glowofamber.cz/"
 title = "Glow of Amber"
 
 author = "Markéta Neradová"
