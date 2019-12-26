@@ -5,7 +5,7 @@
         <div class="w-1/2 lg:p-4">
             <div class="flex flex-row py-10">
                 <img src="/profile.svg" alt="profile logo" style="height:2em">
-                <div class="font-bold px-4 text-2xl"> {{ .Page.Params.userName }} </div>
+                <div class="font-bold px-4 text-2xl whitespace-no-wrap"> {{ .Page.Params.userName }} </div>
             </div>
             <div class="flex flex-row">
                 <img src="/email.svg" alt="email logo" style="height:2em">
@@ -13,7 +13,7 @@
             </div>
             <div class="flex flex-row py-10">
                 <img src="/phone.svg" alt="phone logo" style="height:2em">
-                <div class="px-4 text-xl">{{ .Page.Params.userPhone }}</div>
+                <div class="px-4 text-xl whitespace-no-wrap">{{ .Page.Params.userPhone }}</div>
             </div>
         </div>
         <div class="block lg:w-1/2 md:p-4">
