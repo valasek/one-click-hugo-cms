@@ -18,11 +18,9 @@ V současné době štěňátka neplánujeme.
 ###### Nadpis 6
 
 * o 1
-
-  o 2
+* o 2
 
 1. číslo 1
+2. číslo 2
 
-   číslo 2
-
-![](/public/facebook.svg)
+![](/uploads/dsc_1867.jpg)
