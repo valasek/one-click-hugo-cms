@@ -21,8 +21,6 @@ V současné době štěňátka neplánujeme.
 
   o 2
 
-
-
 1. číslo 1
 
    číslo 2
