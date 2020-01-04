@@ -1,8 +1,7 @@
 ---
-title: Šestá novinka
-date: 2019-11-24
-image: "/novinky/novinka-image.png"
+title: Bakoušek bude zase tatínek
+date: 2019-12-28T00:00:00.000Z
 draft: false
+image: /uploads/bak-štenata.jpg
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+Ve dnech 26. a 28.12.2019 proběhlo krytí Amber Glow Zafa Flame a Corinne Carwera z chs. Kvítek z Pálavy. Na štěňátka - vrh "G" - se těšíme koncem února 2020.
