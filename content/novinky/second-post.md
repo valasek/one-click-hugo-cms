@@ -1,8 +1,9 @@
 ---
-title: Druhá novinka
-date: 2019-11-20
-image: "/novinky/novinka-image.png"
+title: SLOVAKIA CUP
+date: 2019-12-08T00:00:00.000Z
 draft: false
+image: /uploads/beauty-nitra-12-2019.jpg
 ---
+Rozhodčí : Mile Aleksoski (MK)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+- QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída mladých - V1,CAJC,BOJ,BOB
