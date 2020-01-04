@@ -1,8 +1,11 @@
 ---
-title: Čtvrtá novinka
-date: 2019-11-22
-image: "/novinky/novinka-image.png"
+title: 'WINNER SHOW  '
+date: 2019-12-07T00:00:00.000Z
 draft: false
+image: /uploads/bak-3.místo.jpg
 ---
+Rozhodčí : Szabó Sándor (HU)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- AMBER GLOW ZAFA FLAME - třída čestná - V1, BEST HONOR OF BREED  
+v závěrečné soutěži 3.místo
+- QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída mladých - V2
