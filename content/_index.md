@@ -1,10 +1,8 @@
 ---
 title: Vítejte
 ---
-## Nadpis
+Naše chovatelská stanice vznikla v roce 2018 a je zaměřena na chov plemene Border collie.
 
-Text kdj AD KLFH AKJSH FKJ
-* SADKJ ASHF
-* DUHDFAJKFHFASDJ
+Věnujeme se převážně výstavám, obedience a okrajově pasení oveček.
 
-Obsah z netlify CMS
+Prvním a pro založení stanice nejdůležitějším psem je náš BAK. Původní záměr mít jen rodinného mazlíčka rychle přerostl v celkový zájem o všechno co se dá s tímto úžasným plemenem dělat, a protože jedna "borderka" je vždy málo, přibyla BEAUTY.
