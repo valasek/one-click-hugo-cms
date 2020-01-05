@@ -26,9 +26,39 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Odchovy"
-        name: "odchovy"
-        file: "content/odchovy.md"
+      - label: "Beauty odchovy"
+        name: "beauty-odchovy"
+        file: "content/beauty-odchovy.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Beauty zdravi"
+        name: "beauty-zdravi"
+        file: "content/beauty-zdravi.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Beauty uspechy"
+        name: "beauty-uspechy"
+        file: "content/beauty-uspechy.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Bak potomci"
+        name: "bak-potomci"
+        file: "content/bak-potomci.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Bak zdravi"
+        name: "bak-zdravi"
+        file: "content/bak-zdravi.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Bak uspechy"
+        name: "bak-uspechy"
+        file: "content/bak-uspechy.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
