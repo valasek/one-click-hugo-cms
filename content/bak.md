@@ -1,5 +1,6 @@
 ---
 title: "AMBER Glow \"BAK\""
+fullTitle: "AMBER GLOW ZAFA FLAME - \"BAK\""
 layout: "popis"
 firstButtonName: "Zdraví"
 firstButtonLink: "#"

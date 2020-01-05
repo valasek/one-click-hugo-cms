@@ -6,16 +6,12 @@ title = "Glow of Amber"
 author = "Markéta Neradová"
 copyright = "Copyright © 2019, Markéta Neradová, all rights reserved."
 
-# Code higlighting settings
-pygmentsCodefences = true
-pygmentsStyle = "vs"
-
 # Do not pluralize site sections
 pluralizelisttitles = false
 
 [params]
     name = "Glow of Amber"
-    description = "Chovatelka psů."
+    description = "CHS border kolii."
 
     favicon = "/favicon.svg"
     backgroundImage = "/background.png"

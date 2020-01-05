@@ -1,6 +1,11 @@
 {{ define "main" }}
 <article class="bg-gray-100 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
     <h1 class="tracking-widest font-bold text-4xl md:text-4xl">{{ .Title | upper }}</h1>
+    <div class="m-4">
+        <a class="rounded bg-amber hover:bg-orange-500 py-4 px-4 font-bold text-xl tracking-widest shadow-2xl" href="#">
+                KOMPLETNÍ GALERIE ZDE ... 
+        </a>
+    </div>
     <div class="flex-wrap">
         {{ partial "gallery.html" . }}
     </div>

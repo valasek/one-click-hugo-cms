@@ -1,5 +1,6 @@
 ---
 title: "Quite a Beauty"
+fullTitle: "QUITE A BEAUTY VON DEN TRAUMPFOTEN - \"BEAUTY\""
 layout: "popis"
 firstButtonName: "Zdraví"
 firstButtonLink: "#"
