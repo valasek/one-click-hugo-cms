@@ -3,11 +3,11 @@ title: "AMBER Glow \"BAK\""
 fullTitle: "AMBER GLOW ZAFA FLAME - \"BAK\""
 layout: "popis"
 firstButtonName: "Zdraví"
-firstButtonLink: "#"
+firstButtonLink: "/bak-zdravi"
 secondButtonName: "Úspěchy"
-secondButtonLink: "#"
+secondButtonLink: "/bak-uspechy"
 thirdButtonName: "Potomci"
-thirdButtonLink: "#"
+thirdButtonLink: "/bak-potomci"
 ---
 
 Informace o rodičích

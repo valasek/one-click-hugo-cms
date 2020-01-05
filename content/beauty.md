@@ -3,14 +3,12 @@ title: "Quite a Beauty"
 fullTitle: "QUITE A BEAUTY VON DEN TRAUMPFOTEN - \"BEAUTY\""
 layout: "popis"
 firstButtonName: "Zdraví"
-firstButtonLink: "#"
+firstButtonLink: "/beauty-zdravi"
 secondButtonName: "Úspěchy"
-secondButtonLink: "#"
-thirdButtonName: ""
-thirdButtonLink: ""
+secondButtonLink: "/beauty-uspechy"
+thirdButtonName: "Odchovy"
+thirdButtonLink: "/beauty-odchovy"
 ---
-
-V součastné době štěňátka neplánujeme.
 
 Informace o rodičích
 
