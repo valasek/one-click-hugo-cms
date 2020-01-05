@@ -32,13 +32,13 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Beauty zdravi"
+      - label: "Beauty zdraví"
         name: "beauty-zdravi"
         file: "content/beauty-zdravi.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Beauty uspechy"
+      - label: "Beauty úspěchy"
         name: "beauty-uspechy"
         file: "content/beauty-uspechy.md"
         fields:
@@ -50,13 +50,13 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Bak zdravi"
+      - label: "Bak zdraví"
         name: "bak-zdravi"
         file: "content/bak-zdravi.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Bak uspechy"
+      - label: "Bak úspěchy"
         name: "bak-uspechy"
         file: "content/bak-uspechy.md"
         fields:
