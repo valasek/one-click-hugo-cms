@@ -7,9 +7,9 @@ Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k disp
 
 **OFTALMOLOGICKÉ VYŠETŘENÍ**
 
-MVDr. Jiří Beránek Ph.D. dne 20.6.2019
+MVDr. Jiří Beránek Ph.D. 
 
-\- CEA/PRA/Glaucom - negativní  
+\- CEA/PRA/Glaucom - negativní - dne 20.6.2019
 
 **GENETICKÉ TESTY laboratoř Genomia**
 
@@ -26,6 +26,8 @@ MVDr. Jiří Beránek Ph.D. dne 20.6.2019
 \- CL - N/N  
 
 **RTG VYŠETŘENÍ**
+
+MVDr. Jaromír Ekr
 
 \- HD A 105/105
 
