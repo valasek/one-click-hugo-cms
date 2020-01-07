@@ -9,7 +9,7 @@ ZOP
 
 **ČESKÁ REPUBLIKA**
 
-V 3x, V3 1x, V4 2x
+V3 1x, V4 2x, V 3x
 
 VN1 2x, VN2 3x, VN4 2x
 
