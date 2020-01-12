@@ -1,19 +1,19 @@
 {{ define "main" }}
     <article class="bg-gray-100 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
         <h1 class="tracking-widest font-bold text-4xl md:text-4xl">{{ .Params.fullTitle | upper }}</h1>
-        <div class="my-12">
-            <span class="pr-4">
+        <div class="flex flex-wrap my-12">
+            <span class="flex pb-4 pr-4">
                 <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.firstButtonLink }}">
                     {{ .Params.firstButtonName | upper }}
                 </a>
             </span>
-            <span class="pr-4">
+            <span class="flex pb-4 pr-4">
                 <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.secondButtonLink }}">
                     {{ .Params.secondButtonName | upper }}
                 </a>
             </span>
             {{ if ne .Params.thirdButtonLink "" }}
-                <span class="pr-4">
+                <span class="flex pb-4">
                     <a class="rounded shadow-2xl bg-amber hover:bg-orange-500 py-4 px-8 font-bold text-xl tracking-widest" href="{{ .Params.thirdButtonLink }}">
                         {{ .Params.thirdButtonName | upper }}
                     </a>

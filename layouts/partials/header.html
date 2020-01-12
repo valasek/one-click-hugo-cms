@@ -20,11 +20,11 @@
         </div>
         <ul id="nav-menu" class="fixed z-40 top-menu-top-mobile md:top-menu-top right-menu-right-mobile md:right-menu-right bg-white hidden p-8 tracking-widest ">
             <li class="py-2">
-                <a href="/" class="text-black font-bold text-2xl px-2 hover:text-amber">DOMŮ</a>
+                <a href="/" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">DOMŮ</a>
             </li>
             {{ range .Site.Sections }}
             <li class="py-2">
-                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
@@ -51,7 +51,7 @@
 
             {{ with .Site.GetPage "/beauty" }}
             <li class="py-2">
-                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                     viewBox="0 0 48.839 48.839" class="inline-block h-5 w-5 -mt-2" style="enable-background:new 0 0 48.839 48.839;" xml:space="preserve">
                     <g>
@@ -72,19 +72,19 @@
 
             {{ with .Site.GetPage "/beauty-odchovy" }}
             <li class="py-2">
-                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/galerie" }}
             <li class="py-2">
-                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
             </li>
             {{ end }}
 
             {{ with .Site.GetPage "/kontakt" }}
             <li class="py-2">
-                <a href="{{ .Permalink }}" class="text-black font-bold text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
+                <a href="{{ .Permalink }}" class="text-black font-bold text-xl md:text-2xl px-2 hover:text-amber">{{ .Title | upper }}</a>
             </li>
             {{ end }}
         </ul>
