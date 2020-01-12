@@ -16,6 +16,7 @@
         </div>
         <div class="w-screen block">
             <div class="font-bold text-3xl justify-start mt-2 lg:ml-8">ARCHIV</div>
+            <div class="font-bold text-xl lg:pl-8"><a href="/novinky">Všechny</a></div>
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
                 <div class="font-bold text-xl lg:pl-8"><a href="/novinky/{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></div>
             {{end}}
