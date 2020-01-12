@@ -30,25 +30,65 @@ collections:
         name: "beauty-odchovy"
         file: "content/beauty-odchovy.md"
         fields:
-          - {label: Nadpis, name: title, widget: string}
+          - {label: Nadpis, name: title, widget: hidden}
+          - {label: Nadpis, name: fullTitle, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: popis, name: popis, widget: hidden}
+          - {label: firstButtonName, name: firstButtonName, widget: hidden}
+          - {label: firstButtonLink, name: firstButtonLink, widget: hidden}
+          - {label: secondButtonName, name: secondButtonName, widget: hidden}
+          - {label: secondButtonLink, name: secondButtonLink, widget: hidden}
+          - {label: thirdButtonName, name: thirdButtonName, widget: hidden}
+          - {label: thirdButtonLink, name: thirdButtonLink, widget: hidden}
+          - {label: layout, name: layout, widget: hidden}
           - {label: "Obsah", name: "body", widget: "markdown"}
       - label: "Beauty zdraví"
         name: "beauty-zdravi"
         file: "content/beauty-zdravi.md"
         fields:
-          - {label: Nadpis, name: title, widget: string}
+          - {label: Nadpis, name: title, widget: hidden}
+          - {label: Nadpis, name: fullTitle, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: popis, name: popis, widget: hidden}
+          - {label: firstButtonName, name: firstButtonName, widget: hidden}
+          - {label: firstButtonLink, name: firstButtonLink, widget: hidden}
+          - {label: secondButtonName, name: secondButtonName, widget: hidden}
+          - {label: secondButtonLink, name: secondButtonLink, widget: hidden}
+          - {label: thirdButtonName, name: thirdButtonName, widget: hidden}
+          - {label: thirdButtonLink, name: thirdButtonLink, widget: hidden}
+          - {label: layout, name: layout, widget: hidden}
           - {label: "Obsah", name: "body", widget: "markdown"}
       - label: "Beauty úspěchy"
         name: "beauty-uspechy"
         file: "content/beauty-uspechy.md"
         fields:
-          - {label: Nadpis, name: title, widget: string}
+          - {label: Nadpis, name: title, widget: hidden}
+          - {label: Nadpis, name: fullTitle, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: popis, name: popis, widget: hidden}
+          - {label: firstButtonName, name: firstButtonName, widget: hidden}
+          - {label: firstButtonLink, name: firstButtonLink, widget: hidden}
+          - {label: secondButtonName, name: secondButtonName, widget: hidden}
+          - {label: secondButtonLink, name: secondButtonLink, widget: hidden}
+          - {label: thirdButtonName, name: thirdButtonName, widget: hidden}
+          - {label: thirdButtonLink, name: thirdButtonLink, widget: hidden}
+          - {label: layout, name: layout, widget: hidden}
           - {label: "Obsah", name: "body", widget: "markdown"}
       - label: "Bak potomci"
         name: "bak-potomci"
         file: "content/bak-potomci.md"
         fields:
-          - {label: Nadpis, name: title, widget: string}
+          - {label: Nadpis, name: title, widget: hidden}
+          - {label: Nadpis, name: fullTitle, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: popis, name: popis, widget: hidden}
+          - {label: firstButtonName, name: firstButtonName, widget: hidden}
+          - {label: firstButtonLink, name: firstButtonLink, widget: hidden}
+          - {label: secondButtonName, name: secondButtonName, widget: hidden}
+          - {label: secondButtonLink, name: secondButtonLink, widget: hidden}
+          - {label: thirdButtonName, name: thirdButtonName, widget: hidden}
+          - {label: thirdButtonLink, name: thirdButtonLink, widget: hidden}
+          - {label: layout, name: layout, widget: hidden}
           - {label: "Obsah", name: "body", widget: "markdown"}
       - label: "Bak zdraví"
         name: "bak-zdravi"
@@ -70,5 +110,15 @@ collections:
         name: "bak-uspechy"
         file: "content/bak-uspechy.md"
         fields:
-          - {label: Nadpis, name: title, widget: string}
+          - {label: Nadpis, name: title, widget: hidden}
+          - {label: Nadpis, name: fullTitle, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: popis, name: popis, widget: hidden}
+          - {label: firstButtonName, name: firstButtonName, widget: hidden}
+          - {label: firstButtonLink, name: firstButtonLink, widget: hidden}
+          - {label: secondButtonName, name: secondButtonName, widget: hidden}
+          - {label: secondButtonLink, name: secondButtonLink, widget: hidden}
+          - {label: thirdButtonName, name: thirdButtonName, widget: hidden}
+          - {label: thirdButtonLink, name: thirdButtonLink, widget: hidden}
+          - {label: layout, name: layout, widget: hidden}
           - {label: "Obsah", name: "body", widget: "markdown"}
