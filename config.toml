@@ -9,6 +9,9 @@ copyright = "Copyright © 2019, Markéta Neradová, all rights reserved."
 # Do not pluralize site sections
 pluralizelisttitles = false
 
+ [permalinks]
+   tags = "/novinky/:slug/"
+
 [params]
     name = "Glow of Amber"
     description = "CHS border kolii."
