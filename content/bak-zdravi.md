@@ -43,4 +43,4 @@ MVDr. Jaromír Ekr
 
 \- DLK 0/0
 
-\- SPONDYLÓZA - negativní xxx
+\- SPONDYLÓZA - negativní
