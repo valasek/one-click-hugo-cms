@@ -1,13 +1,5 @@
 ---
 title: AMBER GLOW ZAFA FLAME - "BAK" - Zdraví
-fullTitle: AMBER GLOW ZAFA FLAME - "BAK" - Zdraví
-layout: "popis"
-firstButtonName: "zpět"
-firstButtonLink: "/bak"
-secondButtonName: "Úspěchy"
-secondButtonLink: "/bak-uspechy"
-thirdButtonName: "Potomci"
-thirdButtonLink: "/bak-potomci"
 ---
 Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k dispozici na vyžádání.
 
@@ -43,4 +35,4 @@ MVDr. Jaromír Ekr
 
 \- DLK 0/0
 
-\- SPONDYLÓZA - negativní
+\- SPONDYLÓZA - negativní xxx
