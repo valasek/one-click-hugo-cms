@@ -27,6 +27,20 @@ collections:
         fields:
           - {label: Nadpis, name: title, widget: string}
           - {label: "Obsah", name: "body", widget: "markdown"}
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "content/kontakt.md"
+        fields:
+          - {label: Nadpis, name: title, widget: string}
+          - {label: layout, name: layout, widget: hidden}
+          - {label: "Můj email", name: userEmail, widget: string}
+          - {label: "Moje jméno", name: userName, widget: string}
+          - {label: "Můj telefon", name: userPhone, widget: string}
+          - {label: "Nadpis formuláře", name: formTitle, widget: string}
+          - {label: "Nápověda v poli Jméno", name: visitorName, widget: string}
+          - {label: "Nápověda v poli Číslo", name: visitorPhone, widget: string}
+          - {label: "Nápověda v poli E-Mail", name: visitorEmail, widget: string}
+          - {label: "Nápověda v poli Text", name: visitorText, widget: string}
       - label: "Beauty odchovy"
         name: "beauty-odchovy"
         file: "content/beauty-odchovy.md"
