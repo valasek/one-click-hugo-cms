@@ -2,6 +2,8 @@
 title: NIRTAWA CUP
 date: 2019-12-06T00:00:00.000Z
 image: /uploads/bak-nitra-12-2019.jpg
+tags:
+- 2019
 ---
 Rozhodčí : Krinke Milan (CZ)
 

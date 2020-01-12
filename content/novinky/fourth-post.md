@@ -1,8 +1,9 @@
 ---
 title: 'WINNER SHOW  '
 date: 2019-12-07T00:00:00.000Z
-draft: false
 image: /uploads/bak-3.místo.jpg
+tags:
+- 2019
 ---
 Rozhodčí : Szabó Sándor (HU)
 

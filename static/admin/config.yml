@@ -17,6 +17,7 @@ collections:
       - {label: "Datum", name: "date", widget: date}
       - {label: "Obrázek", name: "image", widget: image}
       - {label: "Obsah", name: "body", widget: "markdown"}
+      - {label: "Rok", name: "tags", widget: "string"}
   - label: "Stránky"
     name: "pages"
     files:
