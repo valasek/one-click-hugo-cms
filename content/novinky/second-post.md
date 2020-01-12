@@ -2,8 +2,7 @@
 title: SLOVAKIA CUP
 date: 2019-12-08T00:00:00.000Z
 image: /uploads/beauty-nitra-12-2019.jpg
-tags:
-- 2019
+tag: 2019
 ---
 Rozhodčí : Mile Aleksoski (MK)
 
