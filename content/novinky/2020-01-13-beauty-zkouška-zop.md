@@ -6,4 +6,6 @@ image: /uploads/Beauty ZOP.jpg
 ---
   
 
+
+
 Máme to za sebou :) splněno
