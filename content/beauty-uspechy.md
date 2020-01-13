@@ -1,13 +1,13 @@
 ---
 title: QUITE A BEAUTY VON DEN TRAUMPFOTEN - "BEAUTY" - Úspěchy
 fullTitle: QUITE A BEAUTY VON DEN TRAUMPFOTEN - "BEAUTY" - Úspěchy
-layout: "popis"
-firstButtonName: "zpět"
-firstButtonLink: "/beauty"
-secondButtonName: "Zdraví"
-secondButtonLink: "/beauty-zdravi"
-thirdButtonName: "Odchovy"
-thirdButtonLink: "/odchovy"
+layout: popis
+firstButtonName: zpět
+firstButtonLink: /beauty
+secondButtonName: Zdraví
+secondButtonLink: /beauty-zdravi
+thirdButtonName: Odchovy
+thirdButtonLink: /odchovy
 ---
 **ZKOUŠKY**
 
@@ -17,7 +17,7 @@ ZOP
 
 **ČESKÁ REPUBLIKA**
 
-V3 1x, V4 2x, V 3x
+V3 2x, V4 2x, V 3x
 
 VN1 2x, VN2 3x, VN4 2x
 
