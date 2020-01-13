@@ -1,7 +1,7 @@
 ---
 title: MVP PRAGUE EXPO DOG
 date: 2019-11-30T20:16:09.123Z
-tags: '2020'
+tags: '2019'
 image: /uploads/Beauty-Expodog.jpg
 ---
 QUITE A BEAUTY VON DEN TRAUMPFOTEN
