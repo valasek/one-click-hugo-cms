@@ -1,9 +1,9 @@
 ---
 title: Genetický test RAINE- syndrom
 date: 2019-12-16T23:00:00.000Z
-image: /uploads/bak.jpg
 tags:
-- 2019
+  - 2019
+image: /uploads/BAK3.jpg
 ---
 AMBER GLOW ZAFA FLAME
 
