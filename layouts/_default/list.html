@@ -2,19 +2,19 @@
 <article class="bg-gray-100 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
     <h1 class="tracking-widest font-bold text-4xl md:text-4xl pb-6">{{ .Title | upper }}</h1>
     <div class="lg:flex">
-        <div class="lg:border-r-4 lg:border-b-0 border-b-4 border-amber pb-8">
+        <div class="lg:w-3/4 lg:border-r-4 lg:border-b-0 border-b-4 border-amber pb-8">
             {{ range .Pages }}
-                <div class="block lg:flex pt-6">
-                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="shadow rounded mr-10 mt-3 h-40 w-80 object-cover">
-                    <div class="inline-block w-auto lg:pr-20 pt-4 lg:pt-0">
+                <div class="lg:flex block lg:flex pt-6">
+                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="lg:w-1/4 shadow rounded mr-10 mt-3 h-40 w-80 object-cover">
+                    <div class="lg:w-3/4 w-auto lg:pr-20 pt-4 lg:pt-0">
                         <div class="inline-block font-bold font-thin text-2xl text-black">{{ .Title }}</div>
                         <div class="inline-block text-gray-600 text-xl pl-1">{{ dateFormat "2. 1. 2006" .Date }}</div>
-                        <div class="inline-block text-black text-justify pt-4">{{ .Content }}</div>
+                        <div class="block text-black text-justify pt-4">{{ .Content }}</div>
                     </div>
                 </div>
             {{ end }}
         </div>
-        <div class="w-screen block">
+        <div class="lg:w-1/4 block">
             <div class="font-bold text-3xl justify-start mt-2 lg:ml-8">ARCHIV</div>
             <div class="font-bold text-xl lg:pl-8"><a href="/novinky">Všechny</a></div>
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
