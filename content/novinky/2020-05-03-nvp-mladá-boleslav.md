@@ -6,4 +6,6 @@ image: /uploads/mb.jpg
 ---
 Rozhodčí : Milan Krinke (CZ)
 
-AMBER GLOW ZAFA FLAME -
+AMBER GLOW ZAFA FLAME - třída šampionů - V1, CAC
+
+QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída mladých - V4
