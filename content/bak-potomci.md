@@ -13,8 +13,20 @@ Dne 27.02.2020 se narodil v chs. KVÍTEK Z PÁLAVY vrh "G"
 
 5 holčiček a 3 kluci
 
+<https://www.borderkolie.com/odchovy/71-vrhg-2>
+
+
+
+XXXXXXXXXXXXX
+
+
+
+Dne 20.07.2019 se narodila štěňátka v chs. CARWERA  vrh "H"
+
+5 pejsků a 2 fenečky
+
 <!--StartFragment-->
 
-<https://www.borderkolie.com/odchovy/71-vrhg-2>
+<http://chs-carwera.weebly.com/vrh-h.html>
 
 <!--EndFragment-->
