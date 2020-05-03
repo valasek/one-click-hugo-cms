@@ -1,20 +1,20 @@
 ---
 title: AMBER GLOW ZAFA FLAME - "BAK" - Potomci
 fullTitle: AMBER GLOW ZAFA FLAME - "BAK" - Potomci
-layout: "popis"
-firstButtonName: "zpět"
-firstButtonLink: "/bak"
-secondButtonName: "Zdraví"
-secondButtonLink: "/bak-zdraví"
-thirdButtonName: "Úspěchy"
-thirdButtonLink: "/bak-uspechy"
+layout: popis
+firstButtonName: zpět
+firstButtonLink: /bak
+secondButtonName: Zdraví
+secondButtonLink: /bak-zdraví
+thirdButtonName: Úspěchy
+thirdButtonLink: /bak-uspechy
 ---
-Dne 20.07.2019 se narodil v chs. CARWERA vrh "H" 
+Dne 27.02.2020 se narodil v chs. KVÍTEK Z PÁLAVY vrh "G" 
 
-5 pejsků a 2 fenečky
+5 holčiček a 3 kluci
 
 <!--StartFragment-->
 
-<http://chs-carwera.weebly.com/vrh-h.html>
+<https://www.borderkolie.com/odchovy/71-vrhg-2>
 
 <!--EndFragment-->
