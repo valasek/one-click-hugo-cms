@@ -4,7 +4,7 @@ baseurl = "https://www.glowofamber.cz/"
 title = "Glow of Amber"
 
 author = "Markéta Neradová"
-copyright = "Copyright © 2019, Markéta Neradová, all rights reserved."
+copyright = "Copyright © 2019 - 2021, Markéta Neradová, all rights reserved."
 
 # Do not pluralize site sections
 pluralizelisttitles = false
