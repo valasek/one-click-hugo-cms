@@ -1,33 +1,27 @@
-// Custom PurgeCSS extractor for Tailwind that allows special characters in
-// class names.
-//
-// https://github.com/FullHuman/purgecss#extractor
-class TailwindExtractor {
-    static extract(content) {
-        return content.match(/[A-Za-z0-9-_:\/]+/g) || [];
-    }
-}
-
 const themeDir = __dirname + '/../../';
 
-module.exports = {    
-    plugins: [        
+const purgecss = require('@fullhuman/postcss-purgecss')({
+    // see https://gohugo.io/hugo-pipes/postprocess/#css-purging-with-postcss
+    content: [
+        './hugo_stats.json',
+        themeDir + '/hugo_stats.json',
+        'exampleSite/hugo_stats.json',
+    ],
+    defaultExtractor: (content) => {
+        let els = JSON.parse(content).htmlElements;
+        return els.tags.concat(els.classes, els.ids);
+    }
+})
+
+module.exports = {
+    plugins: [
         require('postcss-import')({
             path: [themeDir]
-            }), 
-        require('tailwindcss')(themeDir + 'assets/css/tailwind.config.js'),   
-        require('@fullhuman/postcss-purgecss')({
-            content: [themeDir + 'layouts/**/*.html'],
-            extractors: [
-            {
-                extractor: TailwindExtractor,
-                extensions: ['html']
-            }], 
-            fontFace: true
-        }),    
-        require('autoprefixer')({
-            grid: true
         }),
-        require('postcss-reporter'),
+        require('tailwindcss')(themeDir + 'assets/css/tailwind.config.js'),
+        require('autoprefixer')({
+            path: [themeDir]
+        }),
+        ...(process.env.HUGO_ENVIRONMENT === 'production' ? [purgecss] : [])
     ]
 }
