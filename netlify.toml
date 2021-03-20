@@ -9,7 +9,7 @@
   HUGO_ENABLEGITINFO = "true"
 
 [build]
-  command = "yarn add postcss-cli && yarn add autoprefixer && yarn install && hugo --gc --minify"
+  command = "nvm ls-remote && yarn add postcss-cli && yarn add autoprefixer && yarn install && hugo --gc --minify"
   publish = "public"
 
 # [context.deploy-preview]
