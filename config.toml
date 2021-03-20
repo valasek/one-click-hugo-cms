@@ -1,4 +1,4 @@
-theme = ""
+# theme = ""
 languageCode = "cz-cs"
 baseurl = "https://www.glowofamber.cz/"
 title = "Glow of Amber"
