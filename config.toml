@@ -9,7 +9,7 @@ copyright = "Copyright © 2019 - 2021, Markéta Neradová, all rights reserved."
 # Do not pluralize site sections
 pluralizelisttitles = false
 
- [permalinks]
+[permalinks]
    tags = "/novinky/:slug/"
 
 [params]
@@ -19,3 +19,7 @@ pluralizelisttitles = false
     favicon = "/favicon.svg"
     backgroundImage = "/background.png"
     logo = "/logo.svg"
+
+# https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter
+[build]
+  writeStats = true
