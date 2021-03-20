@@ -6,6 +6,8 @@ Sources for web site www.glowofamber.cz.
 
 Static pages are build on a top of [Hugo](https://gohugo.io/) using [Tailwind CSS](tailwindcss.com/) and deployed on [Netlify](https://www.netlify.com) with configured [Netlify CMS](https://www.netlifycms.org/).
 
+[Hugo Starter Theme with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) was used initially.
+
 ## Getting Started
 
 Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
