@@ -9,7 +9,7 @@
   HUGO_ENABLEGITINFO = "true"
 
 [build]
-  command = "npm install -g postcss-cli && npm install -g autoprefixer && npm install && hugo --gc --minify"
+  command = "yarn add postcss-cli && yarn add autoprefixer && yarn install && hugo --gc --minify"
   publish = "public"
 
 # [context.deploy-preview]
