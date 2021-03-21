@@ -14,7 +14,7 @@ image: /uploads/beauty-bratislava.jpg
 
 mezitřída V1 / V1, CAC, res.CACIB
 
-﻿SLOVAK JUNIOR CHAMPION﻿![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)
+![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)SLOVAK JUNIOR CHAMPION
 
 \*\*\*\**
 
