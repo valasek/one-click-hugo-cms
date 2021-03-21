@@ -16,7 +16,7 @@ Rozhodčí : Ildikó Muzslai (HU)
 
 ![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)QUITE A BEAUTY VON DEN TRAUMPFOTEN
 
-<!--EndFragment--> - mezitřída - V2 res.CAC (8)
+\- mezitřída - V2 res.CAC (8)
 
 <!--StartFragment-->
 
