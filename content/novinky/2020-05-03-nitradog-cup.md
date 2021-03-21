@@ -2,7 +2,7 @@
 title: NITRADOG CUP
 date: 2020-01-24T13:40:00.479Z
 tags: "2020"
-image: /uploads/nitradog-cup.jpg
+image: /uploads/nitradog-cup2.jpg
 ---
 Rozhodčí : Jaroslav Matyáš (SK)
 
