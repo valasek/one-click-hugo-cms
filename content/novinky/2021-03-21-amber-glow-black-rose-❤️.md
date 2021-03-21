@@ -1,5 +1,5 @@
 ---
-title: "AMBER GLOW & BLACK ROSE  ❤️ "
+title: AMBER GLOW & BLACK ROSE
 date: 2021-01-20T15:31:06.157Z
 tags: "2020"
 image: /uploads/bak-a-rose.jpg
