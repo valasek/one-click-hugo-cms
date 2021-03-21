@@ -9,7 +9,7 @@ secondButtonLink: /bak-zdraví
 thirdButtonName: Úspěchy
 thirdButtonLink: /bak-uspechy
 ---
-Dne 03.07.2020 se narodil vrh “A” Z Letenské studánky
+💞Dne 03.07.2020 se narodil vrh “A” Z Letenské studánky
 
 3 pejsci a 2 holčičky
 
@@ -18,8 +18,6 @@ https://abigailbrownoddobrepohody.webnode.cz/stenatka/
 
 
 XXXXXXXXXXXXX
-
-
 
 Dne 27.02.2020 se narodil v chs. KVÍTEK Z PÁLAVY vrh "G" 
 
@@ -31,14 +29,8 @@ Dne 27.02.2020 se narodil v chs. KVÍTEK Z PÁLAVY vrh "G"
 
 XXXXXXXXXXXXX
 
-
-
 Dne 20.07.2019 se narodila štěňátka v chs. CARWERA  vrh "H"
 
 5 pejsků a 2 fenečky
 
-<!--StartFragment-->
-
 <http://chs-carwera.weebly.com/vrh-h.html>
-
-<!--EndFragment-->
