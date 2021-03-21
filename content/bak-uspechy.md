@@ -35,13 +35,13 @@ GRAND ŠAMPION SLOVENSKA
 
 Vítěz I.skupiny FCI - BIG - XIV. Hanácká výstava 12.01.2019
 
-BOB 2x, BOS 4x, Res.CACIB 2x, Res.CAC 3x, CAC 6x, V3 5x, V4 5x,
+BOB 2x, BOS 4x, Res.CACIB 2x, Res.CAC 5x, CAC 6x, V3 5x, V4 6x,
 
 BOJ 1x, VN2 3x, VN3 2x
 
 **SLOVENSKÁ REPUBLIKA**
 
-BOB 1x, Res.CAC 3x, CAC 4x, V2 1x, V3 1x
+BOB 1x, BOS 1x,Res.CACIB 1x, Res.CAC 5x, CAC 5x, V2 1x, V3 1x
 
 BEST HONOR OF BREED 2x
 
@@ -49,7 +49,7 @@ závěrečná soutěž třída čestná 3.místo - WINNER SHOW NITRA 7.12.2019
 
 **RAKOUSKO**
 
-Res.CACIB 1x, Res.CAC 1x, CAC 1x, V2 1x, V3 1x, V4 1x
+Res.CACIB 1x, Res.CAC 3x, CAC 1x, V2 1x, V3 1x, V4 1x
 
 **NĚMECKO**
 
