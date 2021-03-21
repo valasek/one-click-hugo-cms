@@ -1,8 +1,8 @@
 ---
 title: MVP Bratislava DANUBE CACIB
 date: 2019-10-25T19:54:51.373Z
-tags: '2019'
-image: /uploads/Beauty-bratislava.jpg
+tags: "2019"
+image: /uploads/b-bratislava.jpg
 ---
 QUITE A BEAUTY VON DEN TRAUMPFOTEN
 
