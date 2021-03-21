@@ -9,6 +9,18 @@ secondButtonLink: /bak-zdraví
 thirdButtonName: Úspěchy
 thirdButtonLink: /bak-uspechy
 ---
+Dne 03.07.2020 se narodil vrh “A” Z Letenské studánky
+
+3 pejsci a 2 holčičky
+
+https://abigailbrownoddobrepohody.webnode.cz/stenatka/
+
+
+
+XXXXXXXXXXXXX
+
+
+
 Dne 27.02.2020 se narodil v chs. KVÍTEK Z PÁLAVY vrh "G" 
 
 5 holčiček a 3 kluci
