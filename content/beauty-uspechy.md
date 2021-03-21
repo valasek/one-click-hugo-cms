@@ -15,17 +15,13 @@ ZOP
 
 NHAT
 
-
-
 **VÝSTAVY**
 
 SLOVAK JUNIOR CHAMPION
 
-
-
 **ČESKÁ REPUBLIKA**
 
-BOS 2x, Res.CAC 1x, V3 2x, V4 2x, V 3x
+BOS 2x, Res.CAC 2x, V3 2x, V4 2x, V 3x
 
 VN1 2x, VN2 3x, VN4 2x
 
