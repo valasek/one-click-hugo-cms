@@ -2,7 +2,7 @@
 title: MVP - SUMMER CUP NITRA 2020
 date: 2020-07-19T11:36:34.726Z
 tags: "2020"
-image: /uploads/bak-nitra-2020-2.jpg
+image: /uploads/bak-nitra-2020.jpg
 ---
 AMBER GLOW ZAFA FLAME
 
