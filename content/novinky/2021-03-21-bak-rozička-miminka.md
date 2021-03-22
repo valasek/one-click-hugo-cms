@@ -1,7 +1,7 @@
 ---
 title: BAK & ROZIČKA - miminka
 date: 2021-03-11T16:58:57.685Z
-tags: "2020"
+tags: "2021"
 image: /uploads/img_5909.jpg
 ---
 Vítáme na světě nejkrásnější miminka
