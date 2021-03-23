@@ -6,7 +6,7 @@ image: /uploads/bohu-mimi.jpg
 ---
 <!--StartFragment-->
 
-![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)Quite a Beauty von den Traumpfoten  "BEAUTY"
+![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)**Quite a Beauty von den Traumpfoten**  "**BEAUTY**"
 
 Představujeme malinkatý přírůstek do naší velké rodinné smečky
 
