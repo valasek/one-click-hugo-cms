@@ -6,9 +6,7 @@ image: /uploads/mvp-expo-2018.jpg
 ---
 <!--StartFragment-->
 
-AMBER GLOW ZAFA FLAME
-
-
+**AMBER GLOW ZAFA FLAME**
 
 Rozhodčí : Wibier Mark (DE)
 
