@@ -1,7 +1,7 @@
 ---
 title: MVP CACIB NITRA 2019
 date: 2019-01-26T23:00:00.000Z
-tags: "2018"
+tags: "2019"
 image: /uploads/mvp-nitra-2019.jpg
 ---
 <!--StartFragment-->
