@@ -6,7 +6,7 @@ image: /uploads/duo-brno.jpg
 ---
 **AMBER GLOW ZAFA FLAME**
 
-**\=**03.02.2018= rozhodčí: Volf Katjacher Heidi
+**\=**03.02.2018= rozhodčí : Volf Katjacher Heidi
 
 \-mezitřída V1 CAC
 
