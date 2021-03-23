@@ -12,4 +12,4 @@ Rozhodčí : Erdos László (HU) / Ridarčíková Gabriela (SK)
 
 třída šampionů - V3 / V1, CAC, Vítěz Slovenska
 
-dokončen SLOVENSKÝ GRAND ŠAMPION
+dokončen **SLOVENSKÝ GRAND ŠAMPION**
