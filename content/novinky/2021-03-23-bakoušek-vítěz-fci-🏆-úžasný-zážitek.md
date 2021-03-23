@@ -1,5 +1,5 @@
 ---
-title: BAKOUŠEK vítěz FCI 🏆 ÚŽASNÝ ZÁŽITEK
+title: BAKOUŠEK vítěz skupiny FCI I. 🏆 ÚŽASNÝ ZÁŽITEK
 date: 2019-01-11T23:00:00.000Z
 tags: "2019"
 image: /uploads/big.jpg
