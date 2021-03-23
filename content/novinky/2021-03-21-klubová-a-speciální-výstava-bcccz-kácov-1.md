@@ -4,7 +4,7 @@ date: 2020-09-19T13:21:56.466Z
 tags: "2020"
 image: /uploads/beauty-kácov.jpg
 ---
-QUITE A BEAUTY VON DEN TRAUMPFOTEN
+**QUITE A BEAUTY VON DEN TRAUMPFOTEN**
 
 <!--StartFragment-->
 
