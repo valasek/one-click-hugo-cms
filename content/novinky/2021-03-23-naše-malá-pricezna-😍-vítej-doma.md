@@ -1,5 +1,5 @@
 ---
-title: NAŠE MALÁ PRICEZNA 😍 VÍTEJ DOMA
+title: NAŠE MALÁ PRICEZNA 😍 VÍTEJ DOMA ZLATÍČKO
 date: 2018-11-26T23:00:00.000Z
 tags: "2018"
 image: /uploads/bohu-mimi.jpg
