@@ -6,7 +6,7 @@ image: /uploads/big.jpg
 ---
 <!--StartFragment-->
 
-![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)AMBER GLOW ZAFA FLAME
+![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)**AMBER GLOW ZAFA FLAME**
 
 XIV. Hanácká národní výstava psů Brno
 
@@ -14,7 +14,7 @@ rozhodčí : Střalková Naděžda
 
 třída šampionů : V1, CAC, CACČMKU, Národní vítěz, BOB
 
-![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)BEST IN GROUP FCI I. 
+![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)**BEST IN GROUP FCI I.** 
 
 rozhodčí : Petra Márová
 
