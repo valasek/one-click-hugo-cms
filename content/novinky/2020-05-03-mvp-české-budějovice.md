@@ -6,6 +6,6 @@ image: /uploads/čes.bud..jpg
 ---
 Rozhodčí : Vojtek Vlastislav (SK)
 
-AMBER GLOW ZAFA FLAME - třída šampionů - V1, CAC
+![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)**AMBER GLOW ZAFA FLAME** - třída šampionů - V1, CAC
 
-QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída dorostu - VN2
+![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN** - třída dorostu - VN2
