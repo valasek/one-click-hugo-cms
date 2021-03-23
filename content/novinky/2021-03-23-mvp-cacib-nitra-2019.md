@@ -6,21 +6,21 @@ image: /uploads/mvp-nitra-2019.jpg
 ---
 <!--StartFragment-->
 
-![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)AMBER GLOW ZAFA FLAME
+![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)**AMBER GLOW ZAFA FLAME**
 
-\=NITRADOG CUP=25.01.2019=
+\=**NITRADOG CUP**=25.01.2019=
 
 rozhodčí : Vojislav Al Daghistani,RS
 
 \-třída šampionů- V3
 
-\=WINTER SHOW=26.01.2019=
+\=**WINTER SHOW**=26.01.2019=
 
 rozhodčí : Igor Vyguzov,ME
 
 \-třída šampionů- V2, res.CAC
 
-\=NITRA WINNER SHOW=27.01.2019=
+\=**NITRA WINNER SHOW**=27.01.2019=
 
 rozhodčí : Olga Dolejšová,CZ
 
