@@ -10,7 +10,7 @@ image: /uploads/big.jpg
 
 XIV. Hanácká národní výstava psů Brno
 
-12.1.2019 - rozhodčí : Střalková Naděžda
+rozhodčí : Střalková Naděžda
 
 třída šampionů : V1, CAC, CACČMKU, Národní vítěz, BOB
 
