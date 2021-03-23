@@ -6,7 +6,7 @@ image: /uploads/psisko.jpg
 ---
 <!--StartFragment-->
 
-AMBER GLOW ZAFA FLAME
+**AMBER GLOW ZAFA FLAME**
 
 Dnes jsme si byli zasoutěžit v Psiško a vylepšili jsme si známku OB1 na velmi dobře(236b), snad se nám to odložení někdy povede :)
 
