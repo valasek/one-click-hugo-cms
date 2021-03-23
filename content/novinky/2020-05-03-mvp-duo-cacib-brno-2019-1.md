@@ -12,4 +12,4 @@ Rozhodčí : Hectors Ingrid (BE) / Opara Janusz (PL)
 
 třída šampionů : V2, res.CAC / V1, CAC, CACIB, BOS
 
-dokončen ŠAMPION ČMKU
+dokončen **ŠAMPION ČMKU**
