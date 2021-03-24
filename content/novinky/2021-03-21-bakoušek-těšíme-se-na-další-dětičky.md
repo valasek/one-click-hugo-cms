@@ -6,8 +6,8 @@ image: /uploads/bak-a-abi.jpg
 ---
 <!--StartFragment-->
 
-Dne 3.5. a 4.5. proběhlo krytí "Baka" a "Abinky"
+Dne 3.5. a 4.5. proběhlo krytí **"Baka" a "Abinky"**
 
-Vše proběhlo bez problému, proto doufáme, že vše dobře dopadne a budeme moci začátkem července přivítat nové potomky 
+Vše proběhlo bez problému, proto doufáme, že vše dobře dopadne a budeme moci začátkem července přivítat nové potomky v chs. **Z LETENSKÉ STUDÁNKY**
 
 <!--EndFragment-->
