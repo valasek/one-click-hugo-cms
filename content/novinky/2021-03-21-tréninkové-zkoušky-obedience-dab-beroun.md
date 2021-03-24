@@ -6,4 +6,6 @@ image: /uploads/beauty-1.jpg
 ---
 ![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN**
 
-dnes jsme si s Bohunkou poprvé vyzkoušeli jak to vypadá na závodech
+Dnes jsme si s Bohunkou poprvé vyzkoušeli jak to vypadá na závodech,
+
+získali jsme celkem 233,5 bodů v kategorii OB-Z na známku velmi dobře
