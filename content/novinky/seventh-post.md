@@ -5,6 +5,6 @@ tags:
   - 2019
 image: /uploads/BAK3.jpg
 ---
-AMBER GLOW ZAFA FLAME
+**AMBER GLOW ZAFA FLAME**
 
-výsledek vyšetření laboratoře Genomia na RAINE-syndrom je N/N - mutace nebyla detekována
+**výsledek** vyšetření laboratoře Genomia na RAINE-syndrom je **N/N** - mutace nebyla detekována
