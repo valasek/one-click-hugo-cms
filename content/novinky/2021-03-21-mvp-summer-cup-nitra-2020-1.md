@@ -4,7 +4,7 @@ date: 2020-07-19T11:54:13.906Z
 tags: "2020"
 image: /uploads/beauty-nitra-2020.jpg
 ---
-QUITE A BEAUTY VON DEN TRAUMPFOTEN
+**QUITE A BEAUTY VON DEN TRAUMPFOTEN**
 
 <!--StartFragment-->
 
