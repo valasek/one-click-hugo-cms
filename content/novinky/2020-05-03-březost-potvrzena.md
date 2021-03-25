@@ -6,8 +6,6 @@ image: /uploads/sono.jpg
 ---
 Hurááááááá :o)
 
-Moc se těšíme na miminka
+**AILEEN CARWERA** X **AMBER GLOW ZAFA FLAME** 
 
-AILEEN CARWERA X AMBER GLOW ZAFA FLAME 
-
-chs. CARWERA
+Moc se těšíme na miminka v **chs. CARWERA**
