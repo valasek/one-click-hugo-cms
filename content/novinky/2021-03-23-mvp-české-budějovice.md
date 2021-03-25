@@ -8,4 +8,4 @@ image: /uploads/mvp-čb.jpg
 
  Rozhodčí: Wieremiejczyk - Wierzchowska Malgorzata (PL)
 
-\- třída šampionů V1,CAC,CACIB,BOS
+\- třída šampionů V1,CAC,CACIB,BOS ![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)
