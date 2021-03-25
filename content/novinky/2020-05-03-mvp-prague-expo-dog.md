@@ -6,6 +6,6 @@ image: /uploads/expo.jpg
 ---
 Rozhodčí : Bíró Zsolt (HU)
 
-AMBER GLOW ZAFA FLAME - třída šampionů - V4
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)**AMBER GLOW ZAFA FLAME** - třída šampionů - V4
 
-QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída dorostu - VN4
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN** - třída dorostu - VN4
