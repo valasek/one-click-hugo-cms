@@ -8,4 +8,4 @@ image: /uploads/pes-2018.jpg
 
 Na členské schůzi **klubu BCCCZ** jsme dostali krásný pohár **KLUBOVÉHO ŠAMPIONA**![🏆](https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png)
 
-a ** 2.místo** v soutěži **PES ROKU 2018** v kategorii **VÝSTAVY**
+a **2.místo PES ROKU 2018** v kategorii **VÝSTAVY**
