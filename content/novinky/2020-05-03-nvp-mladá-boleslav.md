@@ -6,6 +6,6 @@ image: /uploads/mb.jpg
 ---
 Rozhodčí : Milan Krinke (CZ)
 
-AMBER GLOW ZAFA FLAME - třída šampionů - V1, CAC
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)**AMBER GLOW ZAFA FLAME** - třída šampionů - V1, CAC
 
-QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída mladých - V4
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN** - třída mladých - V4
