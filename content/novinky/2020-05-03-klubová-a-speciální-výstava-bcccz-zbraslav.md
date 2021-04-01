@@ -6,6 +6,6 @@ image: /uploads/bcccz.jpg
 ---
 31.08.2019 / 01.09.2019 = Rozhodčí : Martina Scott (UK) / Hilary Kerr (UK) 
 
-AMBER GLOW ZAFA FLAME - třída šampionů - V3 / V4 
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png) **AMBER GLOW ZAFA FLAME** - třída šampionů - V3 / V4 
 
-QUITE A BEAUTY VON DEN TRAUMPFOTEN - třída mladých - D / VD
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png) **QUITE A BEAUTY VON DEN TRAUMPFOTEN** - třída mladých - D / VD
