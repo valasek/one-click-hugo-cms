@@ -13,3 +13,5 @@ image: /uploads/duo-brno.jpg
 \=04.02.2018= rozhodčí : Václavík Miroslav
 
 \- mezitřída VD4
+
+.
