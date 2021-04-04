@@ -1,11 +1,6 @@
 ---
 title: "Galerie"
-imageBak: "/galerie/background.png"
-nameBak: "Amber Glow \"Bak\""
-galerieBak: "/galerie-bak"
-imageBeauty: "/galerie/background.png"
-nameBeauty: "Quite a Beauty"
-galerieBeauty: "/galerie-beauty"
+image: "/galerie/galerie.jpeg"
 layout: "galerie"
 ---
 

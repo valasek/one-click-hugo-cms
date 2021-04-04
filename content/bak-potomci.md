@@ -5,7 +5,7 @@ layout: popis
 firstButtonName: zpět
 firstButtonLink: /bak
 secondButtonName: Zdraví
-secondButtonLink: /bak-zdraví
+secondButtonLink: /bak-zdravi
 thirdButtonName: Úspěchy
 thirdButtonLink: /bak-uspechy
 ---

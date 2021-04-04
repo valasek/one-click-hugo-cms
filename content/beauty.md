@@ -6,8 +6,8 @@ firstButtonName: "Zdraví"
 firstButtonLink: "/beauty-zdravi"
 secondButtonName: "Úspěchy"
 secondButtonLink: "/beauty-uspechy"
-thirdButtonName: "Odchovy"
-thirdButtonLink: "/beauty-odchovy"
+thirdButtonName: ""
+thirdButtonLink: ""
 ---
 
 **Informace o rodičích**

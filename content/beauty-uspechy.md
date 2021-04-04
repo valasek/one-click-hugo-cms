@@ -6,8 +6,8 @@ firstButtonName: zpět
 firstButtonLink: /beauty
 secondButtonName: Zdraví
 secondButtonLink: /beauty-zdravi
-thirdButtonName: Odchovy
-thirdButtonLink: /odchovy
+thirdButtonName: ""
+thirdButtonLink: ""
 ---
 **ZKOUŠKY**
 

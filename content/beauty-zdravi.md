@@ -6,8 +6,8 @@ firstButtonName: zpět
 firstButtonLink: /beauty
 secondButtonName: Úspěchy
 secondButtonLink: /beauty-uspechy
-thirdButtonName: Odchovy
-thirdButtonLink: /odchovy
+thirdButtonName: ""
+thirdButtonLink: ""
 ---
 Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k dispozici na vyžádání.
 
