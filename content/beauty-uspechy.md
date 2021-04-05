@@ -9,28 +9,18 @@ secondButtonLink: /beauty-zdravi
 thirdButtonName: ""
 thirdButtonLink: ""
 ---
-**ZKOUŠKY**
 
-ZOP
-
-NHAT
-
-**VÝSTAVY**
-
-SLOVAK JUNIOR CHAMPION
-
-**ČESKÁ REPUBLIKA**
-
-BOS 2x, Res.CAC 2x, V3 2x, V4 2x, V 3x
-
-VN1 2x, VN2 3x, VN4 2x
-
-**SLOVENSKÁ REPUBLIKA**
-
-BOB 1x, Res.CACIB 2x, Rea.CAC 2x, V2 1x, V3 2x, V4 1x
-
-BOJ 2x, VN1 3x, VN2 2x
-
-**RAKOUSKO**
-
-V3 1x, V4 1x
+|  |  |
+| :-- |:--|
+| **ZKOUŠKY** | ZOP |
+|  | NHAT |
+| &nbsp; |  |
+| **VÝSTAVY** | SLOVAK JUNIOR CHAMPION |
+| &nbsp; |  |
+| **ČESKÁ REPUBLIKA** | BOS 2x, Res.CAC 2x, V3 2x, V4 2x, V 3x |
+|  | VN1 2x, VN2 3x, VN4 2x |
+| &nbsp; |  |
+| **SLOVENSKÁ REPUBLIKA**&nbsp;&nbsp; | BOB 1x, Res.CACIB 2x, Rea.CAC 2x, V2 1x, V3 2x, V4 1x |
+|  | BOJ 2x, VN1 3x, VN2 2x |
+| &nbsp; |  |
+| **RAKOUSKO** | V3 1x, V4 1x |

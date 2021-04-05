@@ -12,10 +12,9 @@ thirdButtonLink: ""
 
 **Informace o rodičích**
 
+\- Matka: [Keep Smiling Seven von den Traumpfoten](https://www.von-den-traumpfoten.de/index.php/unsere-hunde/seven-huendin)
 
-Matka: [Keep Smiling Seven von den Traumpfoten](https://www.von-den-traumpfoten.de/index.php/unsere-hunde/seven-huendin)
-
-Otec: [Quinora JJ von den Traumpfoten](https://www.von-den-traumpfoten.de/index.php/unsere-hunde/jj-ruede)
+\- Otec: [Quinora JJ von den Traumpfoten](https://www.von-den-traumpfoten.de/index.php/unsere-hunde/jj-ruede)
 
 \
 **Průkaz původu**

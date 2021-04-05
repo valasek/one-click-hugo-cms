@@ -20,6 +20,19 @@
                 </span>
             {{ end }}
         </div>
-        {{ .Content }}
+        <div class="content">
+            {{ .Content }}
+        </div>
     </article>
+
+    <style>
+        .content a {
+            text-decoration: underline;
+        }
+        .content a:hover {
+            text-decoration: underline;
+            color: #f99f1b;
+        }
+    </style>
+
 {{ end }}

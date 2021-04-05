@@ -11,24 +11,16 @@ thirdButtonLink: ""
 ---
 Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k dispozici na vyžádání.
 
-\= MDR1 +/+
+= MDR1 +/+  
 
-
-
-**OFTALMOLOGICKÉ VYŠETŘENÍ**
-
-MVDr. Jiří Beránek Ph.D.
-
-\- CEA/PRA/Glaucom - negativní - dne 30.01.2020
-
-**RTG VYŠETŘENÍ**
-
-MVDr. Jaromír Ekr
-
-\- HD C
-
-\- OCD - levá -postižen / pravá - nepostižen
-
-\- DLK 0/0
-
-\- SPONDYLÓZA - negativní
+&nbsp;
+|  |  |
+| :-- |:--|
+| **OFTALMOLOGICKÉ VYŠETŘENÍ** &nbsp;&nbsp;| MVDr. Jiří Beránek Ph.D. |
+|  | \- CEA/PRA/Glaucom - negativní - dne 30.01.2020 |
+| &nbsp; |  |
+| **RTG VYŠETŘENÍ** | MVDr. Jaromír Ekr |
+|  | \- HD C |
+|  | \- OCD - levá -postižen / pravá - nepostižen |
+|  | \- DLK 0/0 |
+|  | \- SPONDYLÓZA - negativní |

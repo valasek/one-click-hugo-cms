@@ -29,9 +29,16 @@
       "script",
       "span",
       "strong",
+      "style",
       "svg",
+      "table",
+      "tbody",
+      "td",
       "textarea",
+      "th",
+      "thead",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -44,6 +51,7 @@
       "border-amber",
       "border-b-4",
       "bottom-0",
+      "content",
       "fill-current",
       "fixed",
       "flex",
@@ -162,6 +170,7 @@
     ],
     "ids": [
       "Capa_1",
+      "content",
       "nav-close",
       "nav-menu",
       "nav-open"
