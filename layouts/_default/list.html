@@ -1,26 +1,62 @@
 {{ define "main" }}
 <article class="bg-gray-100 opacity-75 px-12 md:px-24 py-6 md:py-12 my-8">
-    <h1 class="tracking-widest font-bold text-4xl md:text-4xl pb-6">{{ .Title | upper }}</h1>
-    <div class="lg:flex">
-        <div class="lg:w-3/4 lg:border-r-4 lg:border-b-0 border-b-4 border-amber pb-8">
-            {{ range .Pages }}
-                <div class="lg:flex block pt-6">
-                    <img src=" {{ .Params.Image }} " alt="obrázek novinky" class="lg:w-1/4 shadow rounded mr-10 mt-3 h-40 w-80 object-cover">
-                    <div class="lg:w-3/4 w-auto lg:pr-20 pt-4 lg:pt-0">
-                        <div class="inline-block font-bold font-thin text-2xl text-black">{{ .Title }}</div>
-                        <div class="inline-block text-gray-600 text-xl pl-1">{{ dateFormat "2. 1. 2006" .Date }}</div>
-                        <div class="block text-black text-justify pt-4">{{ .Content }}</div>
-                    </div>
-                </div>
-            {{ end }}
+  <h1 class="tracking-widest font-bold text-4xl md:text-4xl pb-6">
+    {{ .Title | upper }}
+  </h1>
+  <div class="lg:flex">
+    <div
+      class="lg:w-3/4 lg:border-r-4 lg:border-b-0 border-b-4 border-amber pb-8"
+    >
+      {{ range .Pages }}
+      <div class="lg:flex block pt-6">
+        <img
+          src=" {{ .Params.Image }} "
+          alt="obrázek novinky"
+          class="lg:w-1/4 shadow rounded mr-10 mt-3 h-40 w-80 object-cover"
+        />
+        <div class="lg:w-3/4 w-auto lg:pr-20 pt-4 lg:pt-0">
+          <div class="inline-block font-bold font-thin text-2xl text-black">
+            {{ .Title }}
+          </div>
+          <div class="inline-block text-gray-600 text-xl pl-1">
+            {{ dateFormat "2. 1. 2006" .Date }}
+          </div>
+          <div class="block text-black text-justify pt-4">{{ .Content }}</div>
         </div>
-        <div class="lg:w-1/4 block">
-            <div class="font-bold text-3xl justify-start mt-2 lg:ml-8">ARCHIV</div>
-            <div class="font-bold text-xl lg:pl-8"><a href="/novinky">Všechny</a></div>
-            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-                <div class="font-bold text-xl lg:pl-8"><a href="/novinky/{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></div>
-            {{end}}
-        </div>
+      </div>
+      {{ end }}
     </div>
+    <div class="lg:w-1/4 block">
+      <div class="font-bold text-3xl justify-start mt-2 lg:ml-8">ARCHIV</div>
+      <div class="font-bold text-xl lg:pl-8">
+        <a href="/novinky">Všechny</a>
+      </div>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <div class="font-bold text-xl lg:pl-8">
+        <a href="/novinky/{{ $name | urlize }}"
+          >{{ $name }} ({{ $taxonomy.Count }})</a
+        >
+      </div>
+      {{end}}
+    </div>
+    <div class="fixed">
+      <div class="fixed bottom-0 right-10 h-16 w-16">
+        <a href="#">
+          <svg
+            width="90px"
+            height="90px"
+            viewBox="0 0 54 54"
+            xmlns="http://www.w3.org/2000/svg"
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+          >
+            <path
+              d="M24 12c0 6.623-5.377 12-12 12s-12-5.377-12-12 5.377-12 12-12 12 5.377 12 12zm-1 0c0 6.071-4.929 11-11 11s-11-4.929-11-11 4.929-11 11-11 11 4.929 11 11zm-11.5-4.828l-3.763 4.608-.737-.679 5-6.101 5 6.112-.753.666-3.747-4.604v11.826h-1v-11.828z"
+            />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
 </article>
 {{ end }}
