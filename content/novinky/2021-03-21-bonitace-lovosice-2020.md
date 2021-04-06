@@ -8,6 +8,6 @@ image: /uploads/bohu.jpg
 
 11.10.2020 se konala bonitace klubu BCCCZ
 
-Beauty se stala **chovnou fenou** s bonitačním kódem **A iim spnb nna/ J1 W3**
+Beauty se stala **chovnou fenou** s bonitačním kódem **iim spnb nna/ J1 W3**
 
 Moc nás to mrzí, ale protože výsledky RTG nedopadli jak bychom si přáli, nebude naše milovaná princezna zařazena do chovu.
