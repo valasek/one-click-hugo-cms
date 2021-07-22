@@ -8,7 +8,7 @@ image: /uploads/zzo.jpg
 
 ![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)QUITE A BEAUTY VON DEN TRAUMPFOTEN![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/1/16/2763.png)
 
-Dnes složila zkoušku ZZO na výborně ![🥳](https://static.xx.fbcdn.net/images/emoji.php/v9/t6d/1/16/1f973.png)
+Dnes složila zkoušku **ZZO na výborně** ![🥳](https://static.xx.fbcdn.net/images/emoji.php/v9/t6d/1/16/1f973.png)
 
 KK Hustopeče - rozhodčí: Robert Klepáč
 
