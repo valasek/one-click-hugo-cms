@@ -17,17 +17,17 @@ Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k disp
 |  |  |
 | :-- |:--|
 | **OFTALMOLOGICKÉ VYŠETŘENÍ** | MVDr. Jiří Beránek Ph.D. |
-|  | \- CEA/PRA/Glaucom - negativní - dne 20.6.2019 |
+|  | - CEA/PRA/Glaucom - negativní - dne 10.06.2021 |
 | &nbsp; |  |
 | **GENETICKÉ TESTY laboratoř Genomia**&nbsp;&nbsp; | GENETICKÝ PROFIL |
-|  | \- RAINE-syndrom - N/N |
-|  | \- GLAUKOM - N/N |
-|  | \- CEA - N/N |
-|  | \- TNS - N/N |
-|  | \- CL - N/N |
+|  | - RAINE-syndrom - N/N |
+|  | - GLAUKOM - N/N |
+|  | - CEA - N/N |
+|  | - TNS - N/N |
+|  | - CL - N/N |
 | &nbsp; |  |
 | **RTG VYŠETŘENÍ** | MVDr. Jaromír Ekr |
-|  | \- HD A 105/105 |
-|  | \- OCD -  clear |
-|  | \- DLK 0/0 |
-|  | \- SPONDYLÓZA - negativní |
+|  | - HD A 105/105 |
+|  | - OCD -  clear |
+|  | - DLK 0/0 |
+|  | - SPONDYLÓZA - negativní |
