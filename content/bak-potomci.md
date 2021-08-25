@@ -9,7 +9,7 @@ secondButtonLink: /bak-zdravi
 thirdButtonName: Úspěchy
 thirdButtonLink: /bak-uspechy
 ---
-💞Dne 08.08.2021 se narodil **vrh "A" v chs. AMEMJE**
+💞 Dne 08.08.2021 se narodil **vrh "A" v chs. AMEMJE**
 
 5 chlapečků a 4 holčičky
 
