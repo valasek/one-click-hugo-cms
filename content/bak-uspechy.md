@@ -26,7 +26,7 @@ thirdButtonLink: /bak-potomci
 |                                     | BOB 2x, BOS 4x, Res.CACIB 2x, Res.CAC 5x, CAC 6x, V3 5x, V4 6x          |
 |                                     | BOJ 1x, VN2 3x, VN3 2x                                                  |
 | &nbsp;                              |                                                                         |
-| **SLOVENSKÁ REPUBLIKA**&nbsp;&nbsp; | BOB 1x, BOS 1x,Res.CACIB 1x, Res.CAC 5x, CAC 5x, V2 1x, V3 1x           |
+| **SLOVENSKÁ REPUBLIKA**&nbsp;&nbsp; | BOB 1x, BOS 2x,Res.CACIB 1x, Res.CAC 5x, CAC 5x, V2 1x, V3 1x           |
 |                                     | BEST HONOR OF BREED 2x                                                  |
 |                                     | **závěrečná soutěž třída čestná 3.místo - WINNER SHOW NITRA** 7.12.2019 |
 | &nbsp;                              |                                                                         |
