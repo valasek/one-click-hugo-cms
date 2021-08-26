@@ -4,9 +4,8 @@ date: 2021-07-17T08:17:41.004Z
 tags: "2021"
 image: /uploads/d2b1159a-ba8a-4ba3-9900-4fcb70662a1c.jpeg
 ---
-<!--StartFragment-->
 
-![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/t72/1.5/16/2763.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN**![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/t72/1.5/16/2763.png)
+![❣️](https://static.xx.fbcdn.net/images/emoji.php/v9/t72/1.5/16/2763.png)**QUITE A BEAUTY VON DEN TRAUMPFOTEN**
 
 \=17.07.2021= OB - LÉTO V CHLÁDKU
 
