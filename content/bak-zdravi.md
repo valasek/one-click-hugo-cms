@@ -16,9 +16,9 @@ Zde naleznete výsledky všech vyšetření. Potvrzení jsou samozřejmě k disp
 &nbsp;
 |  |  |
 | :-- |:--|
-| **OFTALMOLOGICKÉ VYŠETŘENÍ** | MVDr. Jiří Beránek Ph.D. |
-|  | - CEA/PRA/Glaucom - negativní - dne 10.06.2021 |
-| &nbsp; |  |
+| **OFTALMOLOGICKÉ VYŠETŘENÍ** | Přednášel MVDr. Jiří Beránek Ph.D. |
+| | - CEA/PRA/Glaucom - negativní - dne 26.06.2023|
+|   | |
 | **GENETICKÉ TESTY laboratoř Genomia**&nbsp;&nbsp; | GENETICKÝ PROFIL |
 |  | - RAINE-syndrom - N/N |
 |  | - GLAUKOM - N/N |
