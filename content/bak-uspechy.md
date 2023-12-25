@@ -21,6 +21,7 @@ thirdButtonLink: /bak-potomci
 |                                     | ČESKÝ GRAND ŠAMPION                                                     |
 |                                     | SLOVENSKÝ ŠAMPION                                                       |
 |                                     | GRAND ŠAMPION SLOVENSKA                                                 |
+|                                     | VÝSTAVNÍ ŠAMPION SLOVENSKA                                              |
 | &nbsp;                              |                                                                         |
 | **ČESKÁ REPUBLIKA**                 | **Vítěz I.skupiny FCI - BIG - XIV. Hanácká výstava** 12.01.2019         |
 |                                     | BOB 2x, BOS 4x, Res.CACIB 2x, Res.CAC 5x, CAC 6x, V3 5x, V4 6x          |
